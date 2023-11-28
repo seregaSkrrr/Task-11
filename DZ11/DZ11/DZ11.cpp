@@ -2,7 +2,6 @@
 #include <fstream>
 #include <vector>
 #include <stdexcept>
-
 using namespace std;
 
 void divide(int dividend, int divisor) {
